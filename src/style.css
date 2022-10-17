@@ -1,0 +1,39 @@
+.carrossel-img-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 700px;
+}
+
+.carrossel-img-dois {
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 700px;
+}
+
+.navbar-title {
+    font-family: 'Pacifico', cursive;    
+}
+
+.color-special {
+    color: darkred;
+}
+
+.button-color-special {
+    background: darkred;
+    color: white;
+}
+
+.border-color-special {
+    border-color: darkred;
+}
+
+.card-image-cover {
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 300px;
+}
+
+.card-width {
+    max-width: 18rem
+}
+
